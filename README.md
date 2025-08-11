@@ -1,2 +1,2 @@
 # git-conflict-practice
-練習 tuka
+コンフリ練習用　２
