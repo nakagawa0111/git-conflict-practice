@@ -1,3 +1,3 @@
 
-# git-conflict-practice
-２でコンフリクト起こす
+これは猫です
+
